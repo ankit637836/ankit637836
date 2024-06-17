@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **DBMS**
 
 - 📫 How to reach me **2020mcb1227@iitrpr.ac.in**
 
