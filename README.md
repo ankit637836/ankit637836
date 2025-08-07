@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 
-- 📫 How to reach me **2020mcb1227@iitrpr.ac.in**
+- 📫 How to reach me **ankit6378yadav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
